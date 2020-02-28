@@ -5,20 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Movie Review App
 
-* System dependencies
+* Implementation only 80% done
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+* User can sign up and try the application
 * ...
